@@ -31,3 +31,5 @@ K-Means was ultimately chosen for its higher score.
 - The tier, "Top-tier highest spender", only has 9 customers, which is too few to confirm if its stable
 - Only RFM features were used. Using product mix and return rate may reveal more about customers' spending behaviour
 - Next: test segment stability across 2 halves of the year.
+
+Language used: Python
